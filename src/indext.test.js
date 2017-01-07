@@ -1,5 +1,5 @@
 import {expect} from "chai"; //Assertion Library
-import jsdom from "jsdom";
+import jsdom from "jsdom"; // Helper Library
 import fs from "fs"; //FileSystem
 
 describe("Our first test", () => {
